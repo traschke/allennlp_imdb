@@ -1,0 +1,1 @@
+from allennlp_imdb.service.predictors.imdb_predictor import ImdbPredictor
